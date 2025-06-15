@@ -1,2 +1,2 @@
-#proper demo for git
-...............................bla bla
+# proper demo for git
+...........................bla bla
